@@ -1,0 +1,24 @@
+C:\Users\ASUS\Documents\TUGAS PEMROGRAMAN LANJUT\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\TUGAS PEMROGRAMAN LANJUT\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\TUGAS PEMROGRAMAN LANJUT\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.FormCalculator.resources
+C:\Users\ASUS\Documents\TUGAS PEMROGRAMAN LANJUT\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.FormHasil.resources
+C:\Users\ASUS\Documents\TUGAS PEMROGRAMAN LANJUT\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ASUS\Documents\TUGAS PEMROGRAMAN LANJUT\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\TUGAS PEMROGRAMAN LANJUT\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\TUGAS PEMROGRAMAN LANJUT\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ASUS\Documents\TUGAS PEMROGRAMAN LANJUT\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\bin\Debug\Calculator.exe
+C:\Users\ASUS\Documents\TUGAS PEMROGRAMAN LANJUT\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ASUS\Documents\TUGAS PEMROGRAMAN LANJUT\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.exe
+C:\Users\ASUS\Documents\TUGAS PEMROGRAMAN LANJUT\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.pdb
+E:\New folder\Tugas-8-Delegate-dan-Event-main\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\bin\Debug\Calculator.exe.config
+E:\New folder\Tugas-8-Delegate-dan-Event-main\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\bin\Debug\Calculator.exe
+E:\New folder\Tugas-8-Delegate-dan-Event-main\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\bin\Debug\Calculator.pdb
+E:\New folder\Tugas-8-Delegate-dan-Event-main\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\New folder\Tugas-8-Delegate-dan-Event-main\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\New folder\Tugas-8-Delegate-dan-Event-main\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.FormCalculator.resources
+E:\New folder\Tugas-8-Delegate-dan-Event-main\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.FormHasil.resources
+E:\New folder\Tugas-8-Delegate-dan-Event-main\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\New folder\Tugas-8-Delegate-dan-Event-main\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\New folder\Tugas-8-Delegate-dan-Event-main\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\New folder\Tugas-8-Delegate-dan-Event-main\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.exe
+E:\New folder\Tugas-8-Delegate-dan-Event-main\21.11.4122_Albar Gusti Pamungkas_Tugas 8 Delegate dan Event\Calculator\obj\Debug\Calculator.pdb
